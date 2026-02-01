@@ -1,4 +1,4 @@
-# Paradise Nursery Shopping Application
+# e-plantShopping
 
 An online plant shop where users can browse plants, add them to a cart, and manage quantities using Redux.
 

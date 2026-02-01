@@ -1,10 +1,13 @@
 const AboutUs = () => {
   return (
-    <div>
-      <h2>About Paradise Nursery</h2>
+    <div className="about-us-container">
       <p>
-        Paradise Nursery provides a wide variety of healthy and beautiful
-        houseplants delivered to your doorstep.
+        Paradise Nursery is an online plant shop offering a wide range
+        of indoor, outdoor, and succulent plants.
+      </p>
+      <p>
+        Our mission is to promote green living by delivering healthy
+        plants at affordable prices.
       </p>
     </div>
   );
